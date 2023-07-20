@@ -14,3 +14,5 @@ for i in range(1,11):
     print(f'Nope! the correct answer is {b}')
 print()
 print(f'You scored {n}/10')
+print()
+print('See you next time')
