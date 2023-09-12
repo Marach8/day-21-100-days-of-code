@@ -15,4 +15,4 @@ for i in range(1,11):
 print()
 print(f'You scored {n}/10')
 print()
-print('See you next time')
+print('See you next time.')
